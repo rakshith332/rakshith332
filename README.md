@@ -2,14 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Rakshith K R</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<h1><img scr="profile.png"  alt="SoftWare Engineering"></h1>
+<p><img align="Right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshith332&show_icons=true&locale=en&layout=compact" alt="rakshith332" /></p>
 
+- 🌱 I’m currently learning **react js,redux js, **
 
-
-
-- 🌱 I’m currently learning **react js,redux js,django, flask, **
-
-- 💬 Ask me about **python,mysql**
+- 💬 Ask me about **python, Java,mysql**
 
 - 📫 How to reach me **krrakshith12@gmail.com**
 
