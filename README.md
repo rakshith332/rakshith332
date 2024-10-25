@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rakshith K R</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate front end developer from India</h3>
 <p><img align="right" width="400" src="profile.png" alt="rakshith332" /></p>
 
 - 🌱 I’m currently learning **react js,redux js, **
