@@ -22,13 +22,11 @@ Building scalable SaaS platforms, AI copilots, analytics systems, and cloud-nati
   - Performance Optimization
 - 💡 Passionate about:
   - Full Stack Engineering
-  - AI Copilots
-  - Data Engineering
+  - AI Copilots and  Data Engineering
   - Product Analytics
 - ⚡ Strong believer in **Pareto Learning**
 - 🧠 Exploring:
-  - LLM Applications
-  - Agentic AI
+  - LLM Applications and Agentic AI
   - High-Performance APIs
 ---
 
