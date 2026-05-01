@@ -1,25 +1,77 @@
-
-
 <h1 align="center">Hi 👋, I'm Rakshith K R</h1>
-<h3 align="center">A passionate front end developer from India</h3>
-<p><img align="right" width="400" src="profile.png" alt="rakshith332" /></p>
 
-- 🌱 I’m currently learning **react js,redux js, **
+<h3 align="center">
+Full Stack Engineer • AI-Powered Product Builder • Analytics & Cloud Enthusiast
+</h3>
 
-- 💬 Ask me about **python, Java,mysql**
-
-- 📫 How to reach me **krrakshith12@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rakshith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakshith" height="30" width="40" /></a>
+<p align="center">
+Building scalable SaaS platforms, AI copilots, analytics systems, and cloud-native applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshith332&show_icons=true&locale=en&layout=compact" alt="rakshith332" /></p>
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakshith332&show_icons=true&locale=en" alt="rakshith332" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakshith332&" alt="rakshith332" /></p>
+- 🔭 Currently building **AI-powered analytics platforms and enterprise SaaS products**
+- 🌱 Learning deeply about:
+  - System Design
+  - Distributed Systems
+  - AI Engineering
+  - Cloud Architecture
+  - Performance Optimization
+- 💡 Passionate about:
+  - Full Stack Engineering
+  - AI Copilots
+  - Data Engineering
+  - Product Analytics
+  - Developer Tools
+- ⚡ Strong believer in:
+  - Pareto Learning (20% concepts → 80% practical impact)
+  - Building real-world scalable systems
+- 🧠 Exploring:
+  - LLM Applications
+  - Agentic AI
+  - Event Tracking Systems
+  - Behavioral Analytics
+  - High Performance APIs
+
+---
+
+## 🏢 Experience
+
+### 💼 Software Engineer — Zinzu *(Remote)*
+> React • Django • PySpark • BigQuery • Azure • AI Systems
+
+- Built scalable analytics dashboards with React + Tailwind
+- Designed optimized Django REST APIs
+- Worked with GB-scale datasets using PySpark + BigQuery
+- Built AI-driven internal tooling and analytics workflows
+- Improved performance using lazy loading and optimized architecture
+
+### 💼 Full Stack Developer — Venus Smart Metering
+> Java • Python • Angular • AWS • IoT Platforms
+
+- Developed IoT dashboards and telemetry systems
+- Worked on secure backend services and APIs
+- Integrated Amazon SES and Postfix mail systems
+- Improved API reliability and frontend performance
+
+---
+
+# 🧠 Current Focus Areas (2026)
+
+
+✔ Full Stack Engineering
+✔ AI Engineering
+✔ System Design
+✔ SaaS Architecture
+✔ Cloud & DevOps
+✔ Data Engineering
+✔ Event Analytics
+✔ Performance Optimization
+✔ Enterprise Dashboard Systems
+✔ Developer Productivity Tools
+
+```
