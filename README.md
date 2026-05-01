@@ -35,15 +35,43 @@ Building scalable SaaS platforms, AI copilots, analytics systems, and cloud-nati
 ---
 
 
-## 📊 2026 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakshith332&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshith332&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+## 📊 2026 GitHub Analytics
 
----
+<table align="center">
+<tr>
+<td>
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=rakshith332&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    alt="GitHub Stats"
+  />
+</td>
+
+<td>
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rakshith332&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rakshith332&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+  <img
+    src="https://ghchart.rshah.org/409ba5/rakshith332"
+    alt="GitHub Contribution Graph"
+  />
+</td>
+</tr>
+</table>
 
 ## 🏢 Experience
 
@@ -120,8 +148,8 @@ Building scalable SaaS platforms, AI copilots, analytics systems, and cloud-nati
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="www.linkedin.com/in/rakshithkr" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/rakshithkr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="mailto:krrakshith12@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
