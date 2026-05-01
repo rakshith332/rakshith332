@@ -29,11 +29,8 @@ Building scalable SaaS platforms, AI copilots, analytics systems, and cloud-nati
 - 🧠 Exploring:
   - LLM Applications
   - Agentic AI
-  - Event Tracking Systems
   - High-Performance APIs
-
 ---
-
 
 ## 📊 2026 GitHub Analytics
 
